@@ -1,4 +1,4 @@
-![Gemini_Generated_Image_jrynscjrynscjryn](https://github.com/user-attachments/assets/dd268c27-a871-43d3-89c3-f4c66743fd8d)
+![Gemini_Generated_Image_jrynscjrynscjryn](https://github.com/user-attachments/assets/a7e2702b-216c-4e89-9a99-b45bce0682f7)
 # 📚 Tactical-Terrain
 
 Welcome to Tactical-Terrain, a 3D tactics game developed as an assignment project. In this game, you'll experience the basics of grid-based movement and simple AI behavior within a tactical environment. Navigate your player across tiles while being pursued by an enemy in a strategic dance of positioning!
