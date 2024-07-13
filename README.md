@@ -37,6 +37,26 @@ This script manages the pathfinding logic for both player and enemy movements.
 
 ## 🖼️ Screenshots & Video
 
+![Screenshot 2024-07-14 005844](https://github.com/user-attachments/assets/6feafff2-318a-49b2-864d-c2ca9b5de9bd)
+<p align="center">
+  <strong>Grid</strong>
+</p>
+
+![Screenshot 2024-07-14 011304](https://github.com/user-attachments/assets/29861dfd-c330-4bb7-82d0-bf5b565e8d36)
+<p align="center">
+  <strong>Assets</strong>
+</p>
+
+![Screenshot 2024-07-14 011345](https://github.com/user-attachments/assets/e38d53a7-afee-4b7f-85a0-161d3f310bbf)
+<p align="center">
+  <strong>Grid Generation with categorisation of Tiles</strong>
+</p>
+
+https://github.com/user-attachments/assets/242db2e5-20fc-4df9-b378-3519109ed1bf
+<p align="center">
+  <strong>Game Video</strong>
+</p>
+
 
 ## 💻 Development Details
 - **3D Models**: Created using Blender.
