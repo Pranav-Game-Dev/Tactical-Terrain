@@ -49,7 +49,7 @@ This script manages the pathfinding logic for both player and enemy movements.
 
 ![Screenshot 2024-07-14 011345](https://github.com/user-attachments/assets/e38d53a7-afee-4b7f-85a0-161d3f310bbf)
 <p align="center">
-  <strong>Grid Generation with categorisation of Tiles</strong>
+  <strong>Grid Generation with categorization of Tiles</strong>
 </p>
 
 https://github.com/user-attachments/assets/242db2e5-20fc-4df9-b378-3519109ed1bf
