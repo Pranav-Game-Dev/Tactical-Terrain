@@ -4,7 +4,7 @@
 Welcome to Tactical-Terrain, a 3D tactics game developed as an assignment project. In this game, you'll experience the basics of grid-based movement and simple AI behavior within a tactical environment. Navigate your player across tiles while being pursued by an enemy in a strategic dance of positioning!
 
 ## 🎮 Game Overview
-Tactical-Terrain is a single-player game where the objective is to move your player across a grid while avoiding the enemy that follows you. There is no combat; the challenge lies in continuous movement and evasion. All o fthe assets used in game are made by me.
+Tactical-Terrain is a single-player game where the objective is to move your player across a grid while avoiding the enemy that follows you. The challenge lies in continuous movement and evasion. All of the assets used in game are made by me.
 
 ## 🖥️ Main Features
 - **Player Movement**: Move your player across the grid.
@@ -21,19 +21,46 @@ Tactical-Terrain is a single-player game where the objective is to move your pla
 ## 📄 Code & Functionality
 
 ### GridManager
+
 This script handles the creation and management of the grid system.
-- **Grid Generation**: Creates a grid of tiles for the game area.
-- **Tile Management**: Keeps track of tile states (e.g., occupied, empty).
+
+* **Grid Generation**: Creates a grid of tiles for the game area.
+* **Tile Management**: Keeps track of tile states (e.g., occupied, empty).
 
 ### TileSelect
+
 This script allows the player to select tiles and move their character.
-- **Selection Input**: Detects player input for tile selection.
-- **Movement Handling**: Moves the player character to the selected tile.
+
+* **Selection Input**: Detects player input for tile selection.
+* **Movement Handling**: Moves the player character to the selected tile.
 
 ### PathFinder
+
 This script manages the pathfinding logic for both player and enemy movements.
-- **Path Calculation**: Uses A* algorithm to find the shortest path between tiles.
-- **Path Execution**: Moves the characters along the calculated path.
+
+* **Path Calculation**: Uses A* algorithm to find the shortest path between tiles.
+* **Path Execution**: Moves the characters along the calculated path.
+
+### PlayerController
+
+This script handles the player's movement and interactions.
+
+* **Movement Control**: Manages player movement across the grid.
+* **Interaction Handling**: Manages interactions with game elements.
+
+### EnemyController
+
+This script manages the enemy's movement and behavior.
+
+* **Movement Execution**: Controls enemy movement based on pathfinding results.
+* **Behavior Management**: Defines how the enemy behaves in different situations.
+
+### EnemyPathFinder
+
+This script calculates the path for the enemy to follow the player.
+
+* **Path Calculation**: Finds the optimal path for the enemy to move towards the player.
+* **Path Updating**: Updates the path when the player moves to a new tile.
 
 ## 🖼️ Screenshots & Video
 
