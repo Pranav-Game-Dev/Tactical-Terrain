@@ -66,7 +66,7 @@ This script calculates the path for the enemy to follow the player.
 
 ![Screenshot 2024-07-14 005844](https://github.com/user-attachments/assets/6feafff2-318a-49b2-864d-c2ca9b5de9bd)
 <p align="center">
-  <strong>Grid</strong>
+  <strong>Grid (Terrain)</strong>
 </p>
 
 ![Screenshot 2024-07-14 011304](https://github.com/user-attachments/assets/29861dfd-c330-4bb7-82d0-bf5b565e8d36)
