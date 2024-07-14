@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/cf01d123-cda8-42d1-8b7d-c06196d3462d
 
 https://github.com/user-attachments/assets/2f9004d6-340a-4473-89ce-512736ed042a
 <p align="center">
-  <strong>Game Video</strong>
+  <strong>Game Video 2</strong>
 </p>
 
 ## 💻 Development Details
