@@ -4,7 +4,7 @@
 Welcome to Tactical-Terrain, a 3D tactics game developed as an assignment project. In this game, you'll experience the basics of grid-based movement and simple AI behavior within a tactical environment. Navigate your player across tiles while being pursued by an enemy in a strategic dance of positioning!
 
 ## 🎮 Game Overview
-Tactical-Terrain is a single-player game where the objective is to move your player across a grid while avoiding the enemy that follows you. The challenge lies in continuous movement and evasion. All of the assets used in game are made by me.
+Tactical-Terrain is a single-player game where the objective is to move your player across a grid while avoiding the enemy that follows you. The challenge lies in continuous movement and evasion. All of the assets used in game are made by me. The grid randomly generates everytime when you play.
 
 ## 🖥️ Main Features
 - **Player Movement**: Move your player across the grid.
