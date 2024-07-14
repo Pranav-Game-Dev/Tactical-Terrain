@@ -69,25 +69,30 @@ This script calculates the path for the enemy to follow the player.
   <strong>Grid (Terrain)</strong>
 </p>
 
+
 ![Screenshot 2024-07-14 011304](https://github.com/user-attachments/assets/29861dfd-c330-4bb7-82d0-bf5b565e8d36)
 <p align="center">
   <strong>Assets</strong>
 </p>
+
 
 ![Screenshot 2024-07-14 011345](https://github.com/user-attachments/assets/e38d53a7-afee-4b7f-85a0-161d3f310bbf)
 <p align="center">
   <strong>Grid Generation with categorization of Tiles</strong>
 </p>
 
+
 https://github.com/user-attachments/assets/cf01d123-cda8-42d1-8b7d-c06196d3462d
 <p align="center">
   <strong>Game Video</strong>
 </p>
 
+
 https://github.com/user-attachments/assets/2f9004d6-340a-4473-89ce-512736ed042a
 <p align="center">
   <strong>Game Video 2</strong>
 </p>
+
 
 ## 💻 Development Details
 - **3D Models**: Created using Blender.
